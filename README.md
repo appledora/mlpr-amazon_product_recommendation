@@ -34,7 +34,7 @@ Online E-commerce websites like Amazon, Flipkart uses different recommendation m
 
 #### ● Exploratory Data Analysis 
 #### ● Creating a Recommendation system using real data 
-#### ● Collaborative filtering 
+#### ● Benchemarking Popularity based models, Matrix factorization model and Collaborative filtering 
 # Data Description:  
 Link :  https://www.kaggle.com/saurav9786/amazon-product-reviews?fbclid=IwAR26xfJJK1c5zEeXh8yK9tTgDZrXSkdZIIfjGOhnegCobgskrUEYFcky_cw
 
